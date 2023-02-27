@@ -1,4 +1,4 @@
-import { GenreEnum } from 'src/enums/genere-enum';
+import { GenreEnum } from 'src/enums/genre-enum';
 import * as sqlite3 from 'sqlite3';
 import * as sqlite from 'sqlite';
 import { Injectable } from '@nestjs/common';

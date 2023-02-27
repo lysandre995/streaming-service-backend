@@ -1,5 +1,5 @@
 import { MoviesTable } from '../database/tables/movies.table';
-import { GenreEnum } from '../enums/genere-enum';
+import { GenreEnum } from '../enums/genre-enum';
 import { Injectable } from '@nestjs/common';
 
 @Injectable()

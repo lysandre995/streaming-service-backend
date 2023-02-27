@@ -1,7 +1,7 @@
 import * as sqlite3 from 'sqlite3';
 import * as sqlite from 'sqlite';
 import { Injectable } from '@nestjs/common';
-import { GenreEnum } from '../../enums/genere-enum';
+import { GenreEnum } from '../../enums/genre-enum';
 
 @Injectable()
 export class TvSeriesTable {

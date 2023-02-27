@@ -1,4 +1,4 @@
-import { GenreEnum } from '../enums/genere-enum';
+import { GenreEnum } from '../enums/genre-enum';
 import { TvSeriesTable } from '../database/tables/tv-series.table';
 import { Injectable } from '@nestjs/common';
 
